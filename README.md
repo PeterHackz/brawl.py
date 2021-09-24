@@ -9,7 +9,7 @@ pip install -r requirements.txt
 - run main.py
 # notes
 - This is just a template to introduce you into brawlstats library 
-- change emojis ids in tools/config.json
+- change emotes ids in tools/config.json
 # LINKS
 [Join my discord server](https://discord.gg/b2ejYcJjqA)
 # STAR
