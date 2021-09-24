@@ -1,7 +1,7 @@
 # brawl.py
 free2use template/inspiration code on how to make a discord bot use brawl stars developer api in python 
 # how to run
-install required modules by running the following terminal command
+- install required modules by running the following terminal command
 ```
 pip install -r requirements.txt
 ```
