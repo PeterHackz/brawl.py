@@ -1,0 +1,12 @@
+{
+	"bot_token": "your_bot_token",
+	"api_key": "your_brawlstars_developer_api_key",
+	"solo": "<:solo_sd:890692737899319367>",
+	"duo": "<:duo_sd:890692932666003506>",
+	"3vs3": "<:3vs3:890692655770640394>",
+	"club": "<:club:890692804664246403>",
+	"brawlers": "<:brawlers:890692869113905172>",
+ "trp": "<:trophies:890842983895814154>",
+ "xp": "<:xp:890843907645124638>",
+	"total_brawlers=count": 50
+}
